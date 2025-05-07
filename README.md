@@ -1,6 +1,11 @@
 # Table Tennis Performance Analysis System
 
 This project aims to develop a comprehensive system for table tennis performance analysis, moving beyond traditional subjective evaluations by leveraging both sensor data (from the TTSWING dataset) and deep learning for trajectory prediction. The system focuses on providing objective, data-driven insights for players and coaches.
+\begin{center}
+    \textbf{Video explaining our project:} \url{https://iiithydresearch-my.sharepoint.com/:f:/g/personal/amit_shukla_research_iiit_ac_in/EtPqBF0bz2JPisk4phczGTYBjHuZH_RjpDBeaIF7J6K19w?e=lkpAM4}
+\end{center}
+\vspace{1em}
+
 
 ## Table of Contents
 1.  [Project Overview](#project-overview)
